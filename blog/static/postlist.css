@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #426493;
+}
+
+#header_2 {
+    text-align: left;
+    color: [196,33,33];
+}
+
+#content {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+}
